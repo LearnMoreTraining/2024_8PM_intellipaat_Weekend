@@ -3,5 +3,7 @@
 /workspace.xml
 # Default ignored files
 .idea/*
-projectname.iml
+target/*
+testoutput/*
+Hakuna.iml
 
