@@ -3,5 +3,6 @@
 /workspace.xml
 # Default ignored files
 .idea/*
+target/*
 projectname.iml
 
